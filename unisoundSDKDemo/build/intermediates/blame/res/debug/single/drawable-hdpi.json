@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_icon_pressed.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\select_icon_pressed.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_btn.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_btn.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_icon_pressed1.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\select_icon_pressed1.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\titlebar_line.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\titlebar_line.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_icon1.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\select_icon1.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\menu_icon.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textbox_background.9.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\textbox_background.9.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_icon.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\select_icon.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recognizer_btn_press_icon.9.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\recognizer_btn_press_icon.9.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\card_bk.9.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\card_bk.9.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recognizer_btn_icon.9.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\recognizer_btn_icon.9.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-hdpi\\logo.png"
+    }
+]

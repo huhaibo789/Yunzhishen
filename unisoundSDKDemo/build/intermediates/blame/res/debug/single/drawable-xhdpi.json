@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\select_icon.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-xhdpi\\select_icon.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\micphone.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-xhdpi\\micphone.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pictureimg.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-xhdpi\\pictureimg.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\information.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-xhdpi\\information.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\select_icon_pressed.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-xhdpi\\select_icon_pressed.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\titlebar_line.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-xhdpi\\titlebar_line.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\select_icon.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-mdpi\\select_icon.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\select_icon1.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-mdpi\\select_icon1.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\select_icon_pressed.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-mdpi\\select_icon_pressed.png"
+    },
+    {
+        "merged": "F:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\titlebar_line.png",
+        "source": "F:\\androidtvproject\\unisoundSDKDemo\\src\\main\\res\\drawable-mdpi\\titlebar_line.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Aug 09 16:24:55 CST 2018
+base.0=F\:\\androidtvproject\\unisoundSDKDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\androidtvproject\unisoundSDKDemo\src\main\jniLibs"><file name="armeabi/libuscasr.so" path="F:\androidtvproject\unisoundSDKDemo\src\main\jniLibs\armeabi\libuscasr.so"/></source></dataSet><dataSet config="debug"><source path="F:\androidtvproject\unisoundSDKDemo\src\debug\jniLibs"/></dataSet></merger>
